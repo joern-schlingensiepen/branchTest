@@ -4,6 +4,7 @@
         <b>Sonderaktion</b><br />
         Frische Siglinde eingetroffen. <br />
         1,23€/kg
+            Tolle Aktion
 	    </span>
       </aside>
       <footer>
