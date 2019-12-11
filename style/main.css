@@ -14,7 +14,7 @@ header {
 footer {
   grid-column: 1 / 4;
   font-size: 4vh;
-  justify-content: left;
+  justify-content: right;
 
 }
 
