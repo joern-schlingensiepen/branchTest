@@ -3,9 +3,9 @@
 
       </aside>
       <footer>
-        <a href="mailto:Tomaten-und-Kartoffeln@gmx.de">
-            Kontakt
-        </a>
+          <a href="../impressum.php">
+              Impressum
+          </a>
       </footer>
     </div>
   </body>
